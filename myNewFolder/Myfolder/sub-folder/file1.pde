@@ -1,3 +1,0 @@
-// my sketch
-
-int foo;
