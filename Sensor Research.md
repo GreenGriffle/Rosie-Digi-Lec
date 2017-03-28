@@ -20,7 +20,7 @@ http://www.kobakant.at/DIY/?p=3223
 
 # Tilt sensors
 
-### I learnt that tilt sensors actually work the opposite of how I imagined! I imagined that there was a conductive ball that rolls
+I learnt that tilt sensors actually work the opposite of how I imagined! I imagined that there was a conductive ball that rolls
 and joins an open circuit. It is actually the opposite, a non conductive ball or liquid breaks the circuit. They are super simple and reasonably easy to use. 
 
 
