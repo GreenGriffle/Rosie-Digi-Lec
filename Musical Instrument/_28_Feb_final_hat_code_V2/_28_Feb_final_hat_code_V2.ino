@@ -1,3 +1,19 @@
+/* 
+ This is code for a musical hat made and designed by Roseanne Wakely. 
+The wearer needs to tape a capacitive sensor (piece of tin foil) to there face. This turns the hat on. 
+They then can then move around to make different sounds. Either turning south will make one sound, nodding and tilting the head will make more sounds. 
+I combined the Arduino Example "Button" from basics to use a button.
+ I combined that with " Capacitive-Touch Arduino Keyboard Piano"  by Tyler Crumpton and Nicholas Jones
+Which can be found here::
+http://www.instructables.com/id/Capacitive-Touch-Arduino-Keyboard-Piano/
+ This was combined with the Ada fruit example for Adafruit_BNO055 sensor.
+
+
+
+*/
+
+
+
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BNO055.h>
@@ -28,12 +44,7 @@ int notes[] = {NOTE_C4, NOTE_D4, NOTE_E4, NOTE_F4, NOTE_G4, NOTE_A4, NOTE_B4, NO
 CapacitiveSensor keys[] = {CS(3) };
 
 
-/* Roseanne Wakely: I combined the Arduino Example "Button" from basics to use a button.
-  I combined that with " Capacitive-Touch Arduino Keyboard Piano"  by Tyler Crumpton and Nicholas Jones
-  which can be found here: This code is released to the public domain. For information about the circuit,
-  visit the Instructable tutorial at http://www.instructables.com/id/Capacitive-Touch-Arduino-Keyboard-Piano/
 
-  This was combined with the Ada fruit example for Adafruit_BNO055 sensor.
 
   /* This driver uses the Adafruit unified sensor library (Adafruit_Sensor),
    which provides a common 'type' for sensor data and some helper functions.
