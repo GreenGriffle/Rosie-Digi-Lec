@@ -1,4 +1,4 @@
-# H1 Musical Hat take two. 
+# Musical Hat take two. 
 
 * My aim is to improve on the musical hat I made for last project. 
 
