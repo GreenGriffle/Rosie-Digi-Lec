@@ -9,6 +9,7 @@
 * Use two pins per cap sensor.
 * Use two capacity sensors that actually change the sound. 
 * Make gradual sound change based on head position, and how the capacity sensors are being touched. 
+* Add on off switch.
 
  # Next level:
 
@@ -17,7 +18,7 @@
 * Make a bespoke hat designed for the project.  
 * Make the capacity sensor pick up different sorts of touch, (like in the musical plant example.)
 * Make it totally wireless. This might mean using the sounds shields will be preferable. 
-* Add on off switch. 
+ 
 
  # Super next level:
 
@@ -28,6 +29,7 @@
 
  # Things to learn and play with:
 
+* An important part of this project is experimenting with some new boards. 
 * I have an Ada fruit sound shield and a gameundo to try to make more interesting sounds with. 
 * Working out how to make it totally wireless. This means adding a battery, and may mean looking into Bluetooth or Wi-Fi if using processing. 
 * How to be more exacting with the accelerometer. If I want more subtle movements to make different sounds, I need to learn how to do this. 
