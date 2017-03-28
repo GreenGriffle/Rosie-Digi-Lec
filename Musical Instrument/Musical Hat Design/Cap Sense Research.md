@@ -1,8 +1,8 @@
-###This is a really handy link on capacity sensing. 
+### This is a really handy link on capacity sensing. 
 
 http://www.instructables.com/id/How-To-Use-Touch-Sensors-With-Arduino/
 
-###Info on Resistor Choice:
+### Info on Resistor Choice:
 
 Here are some guidelines for resistors but be sure to experiment for a desired response.
 
@@ -13,10 +13,10 @@ One tradeoff with larger resistors is that the sensor's increased sensitivity me
 Also experiment with small capacitors (100 pF - .01 uF) to ground, on the sense pin. They improve stability of the sensor.
 Note that the hardware can be set up with one sPin and several resistors and rPin's for calls to various capacitive sensors. See the example sketch.
 
-###I Found the singing plant how to:
+### I Found the singing plant how to:
 
 http://www.instructables.com/id/Singing-plant-Make-your-plant-sing-with-Arduino-/
 
-###It relies on a home made "Touche Sheild" that was originally made by Disney
+### It relies on a home made "Touche Sheild" that was originally made by Disney
 
 http://www.instructables.com/id/Touche-for-Arduino-Advanced-touch-sensing/
