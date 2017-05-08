@@ -1,3 +1,11 @@
+I spent a long time trying to get a touche sheild working with music, to be able to get different sorts of touch to be reconised. These are the error messages I got. 
+
+I ended up moving on from this idea, as I could get the sensor working, but I could not make it musical, which defeated the point!
+
+
+
+
+
 ## This is the error I'm getting:
 
 
