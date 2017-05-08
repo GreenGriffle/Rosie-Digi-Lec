@@ -10,6 +10,8 @@ The goal of the project was to take the musical hat from the first project and p
 sort of capacitive sensor, the Touche sheild, which used fequency sweeping to sense different sorts of touch.  I also wanted
 to explore different ways of making the music with Arduino.  
 
+I wanted to make the music allot better from the origonal hat that used tone. As the project developed I realised that a hat is a great place for a drum machine, people like the nod there head in time with music, and having drum sounds became very appropriate.
+
 ## How project developed. 
 
 The project moved forwards in three directions at once. This allowed me to keep the exploratory path open, which insuring I actually had something to show at the end. 
