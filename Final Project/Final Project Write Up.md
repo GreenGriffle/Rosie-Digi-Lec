@@ -1,7 +1,7 @@
 ## The hat of ridiculous permission
 
 This hat became a great playground for testing ways in which I could try to combine my design practice with my interests. I've always loved costume, and 
-wearables. I'm also very interested in moments when people use costume to put down the usual social norms. So this hat ticked all those boxes.
+wearables. I'm also very interested in moments when people use costume to put down the usual social norms. So this hat ticked all those boxes. This also became one of the main projects I spoke about in my end of year review, and I wrote about the concepts I was exploring in my writtting class "Design Criticism"
 
 
 ## Project goals. 
@@ -10,9 +10,17 @@ The goal of the project was to take the musical hat from the first project and p
 sort of capacitive sensor, the Touche sheild, which used fequency sweeping to sense different sorts of touch.  I also wanted
 to explore different ways of making the music with Arduino.  
 
+## How project developed. 
 
+The project moved forwards in three directions at once. This allowed me to keep the exploratory path open, which insuring I actually had something to show at the end. 
 
+1. Exploring the Touche sheild. Trying to get different sorts of touch reconised. 
 
+2. Exploring the AdaFruit music sheild.
+
+3. Exploring Minim.
+
+4. Exploring even more while making a tech glove for people with arthritis for studio class. 
 
 
 
