@@ -15,7 +15,7 @@ to explore different ways of making the music with Arduino.
 The project moved forwards in three directions at once. This allowed me to keep the exploratory path open, which insuring I actually had something to show at the end. 
 
 1. Exploring the Touche sheild. Trying to get different sorts of touch reconised. 
-...* This involved building a touche sheild and using a gameduino sheild following this tutorial: http://www.instructables.com/id/Singing-plant-Make-your-plant-sing-with-Arduino-/
+* This involved building a touche sheild and using a gameduino sheild following this tutorial: http://www.instructables.com/id/Singing-plant-Make-your-plant-sing-with-Arduino-/
 
 2. Exploring the AdaFruit music sheild.
 
@@ -27,9 +27,9 @@ The project moved forwards in three directions at once. This allowed me to keep 
 
 ## Chosen Final Ingredients
 
-..* Adafruit BNO055 Absolute Orientation Sensor
-..* Arduino Uno.
-..* Copper 
+* Adafruit BNO055 Absolute Orientation Sensor
+* Arduino Uno.
+* Copper 
 
 
 
