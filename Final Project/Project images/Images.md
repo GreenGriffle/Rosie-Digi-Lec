@@ -13,7 +13,6 @@ I love this image. It sums up the level of diversity I was playing with. Plants,
 
 ## Making hat
 
-![alt text](https://cloud.githubusercontent.com/assets/24552220/25817209/80f05582-33db-11e7-8471-b8a06b4130f6.jpg)
 
 ![alt text](https://cloud.githubusercontent.com/assets/24552220/25817207/7f32f51a-33db-11e7-8701-9671d859e8b0.jpg)
 
