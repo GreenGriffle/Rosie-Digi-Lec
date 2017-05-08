@@ -35,6 +35,4 @@ The project moved forwards in three directions at once. This allowed me to keep 
 *   Minim.
 
 
-
-Work in progress!! I' m hoping you never read this, as I will get it done before you start marking. I'm running some videos through premier to make
-them smaller and its taking a while. 
+I've uploaded some images and video of my process. 
