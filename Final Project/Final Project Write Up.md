@@ -15,14 +15,21 @@ to explore different ways of making the music with Arduino.
 The project moved forwards in three directions at once. This allowed me to keep the exploratory path open, which insuring I actually had something to show at the end. 
 
 1. Exploring the Touche sheild. Trying to get different sorts of touch reconised. 
+...* This involved building a touche sheild and using a gameduino sheild following this tutorial: http://www.instructables.com/id/Singing-plant-Make-your-plant-sing-with-Arduino-/
 
 2. Exploring the AdaFruit music sheild.
 
 3. Exploring Minim.
 
-4. Exploring even more while making a tech glove for people with arthritis for studio class. 
+4. Building an attractive hat to encourage people to want to wear it.
 
+5. Exploring even more while making a tech glove for people with arthritis for studio class. 
 
+## Chosen Final Ingredients
+
+..* Adafruit BNO055 Absolute Orientation Sensor
+..* Arduino Uno.
+..* Copper 
 
 
 
