@@ -34,5 +34,15 @@ The project moved forwards in three directions at once. This allowed me to keep 
 *   Copper.
 *   Minim.
 
+## Lessons learnt. 
 
-I've uploaded some images and video of my process. 
+I learnt allot in this project. I was constantly exploring different ways of sensing. And the difference between making sound waves like a synth and playing an MP3. 
+
+I've uploaded some images and video of my process. The video gives a much better visual explaination of things I was trying. 
+
+# Next steps.
+
+Next I'm going to get it wireless! 
+And see if I can generate better sounds using the synth. 
+
+
